@@ -1,0 +1,26 @@
+{
+  "name": "item-scan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jin-jeffrey/item-scan.git"
+  },
+  "author": "Jeffrey Jin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jin-jeffrey/item-scan/issues"
+  },
+  "homepage": "https://github.com/jin-jeffrey/item-scan#readme",
+  "devDependencies": {
+    "electron": "^17.1.1"
+  },
+  "dependencies": {
+    "jquery-csv": "^1.0.21"
+  }
+}
